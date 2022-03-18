@@ -1,2 +1,2 @@
 #hola
-huihiuhiuhiuh
+print ("hello world")
